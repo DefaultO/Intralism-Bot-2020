@@ -1,0 +1,11 @@
+C:\Users\TE\source\repos\Intralism-Bot-2020\bin\Debug\Intralism-Bot-2020.exe.config
+C:\Users\TE\source\repos\Intralism-Bot-2020\bin\Debug\Intralism-Bot-2020.exe
+C:\Users\TE\source\repos\Intralism-Bot-2020\bin\Debug\Intralism-Bot-2020.pdb
+C:\Users\TE\source\repos\Intralism-Bot-2020\obj\Debug\Intralism-Bot-2020.csprojAssemblyReference.cache
+C:\Users\TE\source\repos\Intralism-Bot-2020\obj\Debug\Intralism-Bot-2020.csproj.CoreCompileInputs.cache
+C:\Users\TE\source\repos\Intralism-Bot-2020\obj\Debug\Intralism-Bot-2020.exe
+C:\Users\TE\source\repos\Intralism-Bot-2020\obj\Debug\Intralism-Bot-2020.pdb
+C:\Users\TE\source\repos\Intralism-Bot-2020\obj\Debug\Intralism-Bot-2020.csproj.CopyComplete
+C:\Users\TE\source\repos\Intralism-Bot-2020\bin\Debug\Memory.dll
+C:\Users\TE\source\repos\Intralism-Bot-2020\bin\Debug\Memory.pdb
+C:\Users\TE\source\repos\Intralism-Bot-2020\bin\Debug\Memory.xml

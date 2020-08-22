@@ -1,0 +1,13 @@
+C:\Users\breit\Downloads\Intralism-Bot-2020\bin\x86\Debug\Intralism-Bot-2020.exe.config
+C:\Users\breit\Downloads\Intralism-Bot-2020\bin\x86\Debug\Intralism-Bot-2020.exe
+C:\Users\breit\Downloads\Intralism-Bot-2020\bin\x86\Debug\Intralism-Bot-2020.pdb
+C:\Users\breit\Downloads\Intralism-Bot-2020\bin\x86\Debug\Memory.dll
+C:\Users\breit\Downloads\Intralism-Bot-2020\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\breit\Downloads\Intralism-Bot-2020\bin\x86\Debug\Memory.pdb
+C:\Users\breit\Downloads\Intralism-Bot-2020\bin\x86\Debug\Memory.xml
+C:\Users\breit\Downloads\Intralism-Bot-2020\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\breit\Downloads\Intralism-Bot-2020\obj\x86\Debug\Intralism-Bot-2020.csproj.CoreCompileInputs.cache
+C:\Users\breit\Downloads\Intralism-Bot-2020\obj\x86\Debug\Intralism-Bot-2020.csproj.CopyComplete
+C:\Users\breit\Downloads\Intralism-Bot-2020\obj\x86\Debug\Intralism-Bot-2020.exe
+C:\Users\breit\Downloads\Intralism-Bot-2020\obj\x86\Debug\Intralism-Bot-2020.pdb
+C:\Users\breit\Downloads\Intralism-Bot-2020\obj\x86\Debug\Intralism-Bot-2020.csprojAssemblyReference.cache
