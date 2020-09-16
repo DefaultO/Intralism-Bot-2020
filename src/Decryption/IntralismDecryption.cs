@@ -1,6 +1,8 @@
-﻿// THIS FILE HAS BEEN COPIED OVER OUT OF THR ASSEMBLY. I DIDN'T CODE THIS.
-// I DID EDIT THIS ONE THOUGH (RENAMING & SUMMARIES WERES ADDED). LEAVE THIS WATERMARK IF YOU AKNOWLEDGE THE WORK PUT INTO IT.
-// 
+// this file has been copied over out of the assembly (you can see the token comments, that's a significant mark that shows you
+// it's taken from a Unitys Assembly-CSharp.dll (using dnSpy). i didn't code this. i did edit this one though (renames were done & summaries were added)
+// and the hardcoded foldername was fixed. leave this watermark if you aknowledge the work put into this class.
+
+// edit by: https://github.com/DefaultO
 
 using System;
 using System.IO;
