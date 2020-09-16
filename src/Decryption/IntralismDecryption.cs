@@ -28,9 +28,9 @@ public static class IntralismDecryption
 		return array2;
 	}
 
-    #region Encryption
-    // Token: 0x0600ED9B RID: 60827 RVA: 0x0050FE94 File Offset: 0x0050E094
-    public static string Encrypt(string KDGOMEPJIKK, string JBKAHNLOKCE = null)
+        #region Encryption
+        // Token: 0x0600ED9B RID: 60827 RVA: 0x0050FE94 File Offset: 0x0050E094
+    	public static string Encrypt(string KDGOMEPJIKK, string JBKAHNLOKCE = null)
 	{
 		if (string.IsNullOrEmpty(KDGOMEPJIKK))
 		{
@@ -148,12 +148,12 @@ public static class IntralismDecryption
 		cryptoStream.Close();
 		return memoryStream.ToArray();
 	}
-    #endregion
+    	#endregion
 
-    // Token: 0x04001A9C RID: 6812
-    // Actual One: xJutAalS5sedTosjHpZ0
-    // Original: 88f00bdf0ad61b16b803971ebe071962
-    private static string hardcodedFolderName = "xJutAalS5sedTosjHpZ0";
+    	// Token: 0x04001A9C RID: 6812
+    	// Actual One: xJutAalS5sedTosjHpZ0
+	// Original: 88f00bdf0ad61b16b803971ebe071962
+        private static string hardcodedFolderName = "xJutAalS5sedTosjHpZ0";
 
 	// Token: 0x04001A9D RID: 6813
 	private static byte[] hardcodedCryptoPassword = Encoding.ASCII.GetBytes("d264dbba9c2410771b4ad918903b3f4cd9e276a9");
