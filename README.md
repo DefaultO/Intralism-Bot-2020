@@ -46,7 +46,7 @@ This is neccessary to trick the Moderators and Oxy to believe that the replay do
 Who wants to play that game anyways. Wouldn't it be cool to send Keyboard Input to Intralism without it even having to be in the foreground and or active? You could do productive things instead, than playing all those 1-10* Maps that are boring, slow and too long, doesn't matter how good you talk them.
 
 ### TODO: Add a Patch for the Family Sharing Check
-This Patch won't make it possible for you to rank-up in the Leaderboard, since Ranking will be disabled in case you use Family Share to play on an alt. This is all client-sided and only a check if the App Owner's SteamID is equal to the current playing SteamID, so shouldn't be a problem.
+This check won't make it possible for you to rank-up in the Leaderboard, since Ranking will be disabled in case you use Family Share to play on an alt. This is all client-sided and only a check if the App Owner's SteamID is equal to the current playing SteamID, so shouldn't be a problem.
 
 ### TODO: Add a Patch for the Kick Method
 It happens quite often, that you get kicked out of a lobby of some friends that want just to play together for no reason. Since Oxy still didn't manage to fix the private lobbies, you will have to use public ones, which of course everyone can join in. Kick explained. The Game uses a Method called ``KickThePlayer()`` which actually is just the method that handles the kick, when you get kicked. The kick seems to be client-sided. I thought Oxy would do that one at least server sided. So it just closes the Connection when you get kicked. If you remove a few lines, you get your Antikick Feature. Would look like that after the Patch:
